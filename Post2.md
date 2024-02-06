@@ -25,7 +25,7 @@ hot-spring like water with hundreds of blossoming flowers and healthy trees. Thi
         <p class="para3">Start heading towards the brightest star in the galaxy and take a slight left towards Glipton Gas.</p>
     </div>
     <div class="container6">
-        <img src="/images/plutom.png" alt="image of jupiter" class="imgpost3">
+        <img src="/images/plutom.png" alt="Created image of fiction planet on figma" class="imgpost3">
     </div>
     <div class="container5">
         <p class="para">Step 4:</p>
